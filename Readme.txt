@@ -29,5 +29,6 @@ Steps for Creating custom aws lambda
 5) Once can upload the zip file directly in lambda and zip file size should must be < 250MB
       or
    Once can upload the zip file in S3 and give the path in lambda
-   
-   
+ 
+ 
+ ![stack Overflow](http://lmsotfy.com/so.png)
