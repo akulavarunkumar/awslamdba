@@ -31,4 +31,5 @@ Steps for Creating custom aws lambda
    Once can upload the zip file in S3 and give the path in lambda
  
  
- ![stack Overflow](http://lmsotfy.com/so.png)
+![alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1")
+
