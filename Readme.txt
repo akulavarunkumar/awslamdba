@@ -7,7 +7,7 @@ Steps for Creating custom aws lambda
     python3 -m venv env
     source env/bin/activate
     
-    pip install pandas==0.23.4
+    pip install sklearn
     
     pip install boto3
 
