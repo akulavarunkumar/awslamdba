@@ -13,9 +13,9 @@ Steps for Creating custom aws lambda
 
     # install required packages in the env
 
-2) create lambda_function.py with required logic and copy over this file into site-packages folder of the env
+2) Create lambda_function.py with required logic and copy over this file into site-packages folder of the env
 
-3) zip all the files present inside the site-packages as below
+3) Zip all the files present inside the site-packages as below
     package.zip
       |
       |- pandas module folder
