@@ -11,7 +11,7 @@ Steps for Creating custom aws lambda
     
     pip install boto3
 
-    # install required packages in the env
+    ###install required packages in the env
 
 2) Create lambda_function.py with required logic and copy over this file into site-packages folder of the env
 
