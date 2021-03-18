@@ -5,6 +5,7 @@ Steps for Creating custom aws lambda
 1) Create the virtual env, activate and install required packages
     
     python3 -m venv env
+    
     source env/bin/activate
     
     pip install sklearn
