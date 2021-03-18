@@ -18,19 +18,19 @@ Steps for Creating custom aws lambda
 
 3) Zip all the files present inside the site-packages as below
 
-    package.zip
+      package.zip
     
-      |
-      
-      |- pandas module folder
-      
-      |- boto3 module folder
-      
-      |- some other folders
-      
-      |- lambda_function.py
-      
-      |- some other files
+          |
+
+          |- pandas module folder
+
+          |- boto3 module folder
+
+          |- some other folders
+
+          |- lambda_function.py
+
+          |- some other files
 
 4) Create lambda function with required permissions
 
